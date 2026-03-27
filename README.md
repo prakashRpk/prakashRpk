@@ -1,113 +1,118 @@
 <!-- Banner -->
-<h1 align="center">⚔️ Hey 👋 I'm Prakash</h1>
-<h3 align="center">🖤 From Zero to Monarch | Full-Stack Hunter | MCA Student</h3>
+<h1 align="center">👨‍💻 Hey 👋 I'm Prakash</h1>
+<h3 align="center">💙 Cyber Developer | Full-Stack Hacker | MCA Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Hunters%20Visited&color=red&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=System%20Access&color=0abde3&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0abde3?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-0984e3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LEVEL-UPGRADING-00cec9?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🖤 About Me (Hunter Profile)
+## 💻 SYSTEM PROFILE
 
-<img align="right" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🆔 Name: **Prakash**  
-🎓 Rank: **MCA Student @ RVS College, Coimbatore**  
-⚔️ Class: **Full-Stack Developer (Evolving)**  
-🌱 Training: **Advanced Backend & React Native**  
-🛠️ Skills: **Building Scalable Web & Mobile Apps**  
-🎯 Goal: **Become an S-Rank Developer**
+🧑‍💻 USER: **Prakash**  
+🎓 ROLE: **MCA Student @ RVS College, Coimbatore**  
+🧠 CLASS: **Full-Stack Developer**  
+🌐 STATUS: **Learning Advanced Backend & React Native**  
+⚡ MISSION: **Build Scalable Web & Mobile Applications**  
+🎯 TARGET: **Elite Developer Mode**
 
 ---
 
-## ⚔️ Tech Arsenal
+## ⚡ TECH MATRIX
 
-### 🌐 Frontend Skills
+### 🌐 FRONTEND SYSTEMS
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative" />
 </p>
 
-### ⚙️ Backend Powers
+### ⚙️ BACKEND SYSTEMS
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Hunter Tools
+### 🧰 DEV TOOLS
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🏆 Dungeon Clears (Projects)
+## 🚀 ACTIVE PROJECTS
 
-### 🏫 College Canteen System
-🗡️ Role-based Authentication  
-🗡️ Product & Payment System  
-🗡️ REST API Architecture  
-🗡️ MongoDB Storage  
-
----
-
-### 📚 Library Management System
-🗡️ Hackathon Dungeon Clear  
-🗡️ Secure Auth (bcrypt)  
-🗡️ Fine System  
-🗡️ Full CRUD  
+### 🏫 COLLEGE CANTEEN SYSTEM
+✔ Secure Role-Based Authentication  
+✔ Product & Payment Control System  
+✔ REST API Architecture  
+✔ MongoDB Database  
 
 ---
 
-### 📔 Online Diary System
-🗡️ JWT Authentication  
-🗡️ Secure Routes  
-🗡️ MongoDB Integration  
+### 📚 LIBRARY MANAGEMENT SYSTEM
+✔ Encrypted Authentication (bcrypt)  
+✔ Fine Management Module  
+✔ Complete CRUD Operations  
 
 ---
 
-### 🎵 Music Player Web App
-🗡️ Playlist & Shuffle  
-🗡️ Repeat / Loop  
-🗡️ Fullscreen Mode  
-🗡️ Responsive UI  
+### 📔 ONLINE DIARY SYSTEM
+✔ JWT Secure Login  
+✔ Protected Routes  
+✔ MongoDB Integration  
 
 ---
 
-## 📊 Power Level Stats
+### 🎵 MUSIC PLAYER WEB APP
+✔ Dynamic Playlist Engine  
+✔ Loop / Shuffle Modes  
+✔ Fullscreen UI  
+✔ Responsive Design  
+
+---
+
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 2026 Hunter Goals
+## 🧠 2026 MISSION TARGETS
 
-- ⚔️ Clear 10+ Full Stack Dungeons  
-- 🚀 Deploy 5 Real-world Systems  
-- 📱 Release 1 Mobile App  
-- 💼 Start Freelance Missions  
+- ⚡ Build 10+ Full Stack Systems  
+- 🚀 Deploy 5 Production Applications  
+- 📱 Launch 1 Mobile App  
+- 💼 Start Freelance Operations  
 
 ---
 
-## 🌐 Guild Connections
+## 🌐 NETWORK ACCESS
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Shadow%20Message-black?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Email-System%20Ping-0abde3?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Hunter%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Network%20Access-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚔️ “Arise.” — Keep Leveling Up 🔥
+  💙 “Code. Hack. Build. Repeat.” ⚡
 </p>
